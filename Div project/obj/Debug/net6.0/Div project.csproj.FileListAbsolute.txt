@@ -1,0 +1,15 @@
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.csproj.AssemblyReference.cache
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.AssemblyInfoInputs.cache
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.AssemblyInfo.cs
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.csproj.CoreCompileInputs.cache
+D:\Education\C#\Div project\bin\Debug\net6.0\Div project.exe
+D:\Education\C#\Div project\bin\Debug\net6.0\Div project.deps.json
+D:\Education\C#\Div project\bin\Debug\net6.0\Div project.runtimeconfig.json
+D:\Education\C#\Div project\bin\Debug\net6.0\Div project.dll
+D:\Education\C#\Div project\bin\Debug\net6.0\Div project.pdb
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.dll
+D:\Education\C#\Div project\obj\Debug\net6.0\refint\Div project.dll
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.pdb
+D:\Education\C#\Div project\obj\Debug\net6.0\Div project.genruntimeconfig.cache
+D:\Education\C#\Div project\obj\Debug\net6.0\ref\Div project.dll
