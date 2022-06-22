@@ -1,0 +1,15 @@
+D:\Education\C#\Sum project\bin\Debug\net6.0\Sum project.exe
+D:\Education\C#\Sum project\bin\Debug\net6.0\Sum project.deps.json
+D:\Education\C#\Sum project\bin\Debug\net6.0\Sum project.runtimeconfig.json
+D:\Education\C#\Sum project\bin\Debug\net6.0\Sum project.dll
+D:\Education\C#\Sum project\bin\Debug\net6.0\Sum project.pdb
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.csproj.AssemblyReference.cache
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.AssemblyInfoInputs.cache
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.AssemblyInfo.cs
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.csproj.CoreCompileInputs.cache
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.dll
+D:\Education\C#\Sum project\obj\Debug\net6.0\refint\Sum project.dll
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.pdb
+D:\Education\C#\Sum project\obj\Debug\net6.0\Sum project.genruntimeconfig.cache
+D:\Education\C#\Sum project\obj\Debug\net6.0\ref\Sum project.dll
