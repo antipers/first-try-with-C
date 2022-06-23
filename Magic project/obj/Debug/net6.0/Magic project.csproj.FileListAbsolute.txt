@@ -1,0 +1,15 @@
+D:\Education\C#\Magic project\bin\Debug\net6.0\Magic project.exe
+D:\Education\C#\Magic project\bin\Debug\net6.0\Magic project.deps.json
+D:\Education\C#\Magic project\bin\Debug\net6.0\Magic project.runtimeconfig.json
+D:\Education\C#\Magic project\bin\Debug\net6.0\Magic project.dll
+D:\Education\C#\Magic project\bin\Debug\net6.0\Magic project.pdb
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.csproj.AssemblyReference.cache
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.AssemblyInfoInputs.cache
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.AssemblyInfo.cs
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.csproj.CoreCompileInputs.cache
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.dll
+D:\Education\C#\Magic project\obj\Debug\net6.0\refint\Magic project.dll
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.pdb
+D:\Education\C#\Magic project\obj\Debug\net6.0\Magic project.genruntimeconfig.cache
+D:\Education\C#\Magic project\obj\Debug\net6.0\ref\Magic project.dll
