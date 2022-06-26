@@ -1,11 +1,4 @@
-﻿int Mon = 1;
-int Tue = 2;
-int Wed = 3;
-int Thu = 4;
-int Fri = 5;
-int Sun = 6;
-int Sut = 7;
-Console.WriteLine("введите число дня недели от 1 до 7");
+﻿Console.WriteLine("введите число дня недели от 1 до 7");
 int Week_day = Convert.ToInt32(Console.ReadLine());
 if (Week_day == 1)
 {
