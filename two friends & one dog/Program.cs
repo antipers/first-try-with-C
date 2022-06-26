@@ -4,7 +4,7 @@ int second_friend_speed = 2;
 int dog_speed = 5;
 int distance = 10000;
 int end = 10;
-int friend = 2;
+int friend = 1;
 while (distance > end)
 {
     
@@ -24,5 +24,4 @@ while (distance > end)
     }
 
 }
-  Console.WriteLine("Собака пробежит- ");
-  Console.Write(count);
+  Console.WriteLine("Собака пробежит- " + count + " раз");
