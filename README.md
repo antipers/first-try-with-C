@@ -1,3 +1,3 @@
 # first-try-with-C
 
-This repository contain tasks and homework in C#
+This repository contain tasks and homework on C#
