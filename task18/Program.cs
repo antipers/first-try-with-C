@@ -1,2 +1,2 @@
-﻿void Print_quarter(float x, float y);
+﻿//void Print_quarter(float x, float y);
 
