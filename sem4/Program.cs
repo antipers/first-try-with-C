@@ -1,7 +1,7 @@
 ﻿int sum = 0;
             
 Console.WriteLine("Введите число");
-int num = int.Parse(Console.ReadLine());
+int num = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine(GetSum(num));
 Console.WriteLine(GetSumFast(num));

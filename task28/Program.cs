@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число");
-int factor = int.Parse(Console.ReadLine());
+int factor = int.Parse(Console.ReadLine()!);
 
 int GetSumFast(int factor)
 {
